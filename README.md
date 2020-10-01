@@ -3,7 +3,8 @@ This design ensures that web applications can be viewed on most devices, window 
 
 # Built with
 HTML,
-CSS &
+CSS,
+Bootstrap &
 Visual Studio Code
 
 # Criteria
